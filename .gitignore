@@ -1,0 +1,4 @@
+**/node_modules
+cdk/.env
+cdk/cdk.context.json
+tools/*.json

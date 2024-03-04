@@ -1,0 +1,15 @@
+{
+  "name": "lambda_handler",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.504.0",
+    "@aws-sdk/client-s3": "^3.501.0",
+    "aws-sdk": "^2.1550.0",
+    "jdenticon": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.3"
+  }
+}
